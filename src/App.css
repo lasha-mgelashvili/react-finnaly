@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.movies-li {
+  list-style: none;
+  text-decoration: none;
+  width: 500px;
+  background-color: azure;
+  margin: auto;
+}
